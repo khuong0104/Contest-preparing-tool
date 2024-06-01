@@ -27,7 +27,7 @@ def createNameOfContestFile(nowPath):
 	print("contest ",Name," created")
 	return CrPath 
 
-print("Welcome to Competitive programming creation tool")
+print("Welcome to Contest preparing tool")
 print("Press Ctrl + C to close this tool")
 print("Your directory: ",os.getcwd())
 c = 0 
