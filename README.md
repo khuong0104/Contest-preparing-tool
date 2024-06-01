@@ -8,7 +8,8 @@
 1. Download this repository.
 2. Open **Command Prompt**.
 3. Change the directory to the folder **Contest-preparing-tool**.
-4. Run `py ContestPreparingTool.py`. 
+4. Add your snippet 
+5. Run `py ContestPreparingTool.py`. 
 
 ## Features Coming Soon:
 1. Download sample input.
