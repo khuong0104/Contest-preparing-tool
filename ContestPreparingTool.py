@@ -15,7 +15,7 @@ def createFile(n,nowPath,snippetPath):
 	x.close()
 	os.chdir(snippetPath)
 	t = open("snippet.txt","r")
-	f.write('string TASK = "'+problems+'";\n')
+	f.write("char TASK = '" +problems+ "';\n")
 	for line in t:
 		f.write(line)
 	t.close()
